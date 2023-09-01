@@ -13,35 +13,18 @@
 
 <p style="text-align:justify"><strong><em>Ví dụ:</em></strong></p>
 
-<table align="left" border="1" cellspacing="1">
+<table border="1" cellpadding="1" cellspacing="1" style="width:100%">
 	<tbody>
 		<tr>
-			<td style="background-color:#ffffcc; border-color:black; width:85.5pt">
-			<p style="text-align:center"><tt>INPUT</tt></p>
-			</td>
-			<td style="width:40.5pt">
-			<p style="text-align:center">&nbsp;</p>
-			</td>
-			<td style="background-color:#ffffcc; border-color:black; width:90.0pt">
-			<p style="text-align:center"><tt>OUTPUT</tt></p>
-			</td>
+			<td style="text-align:center; vertical-align:top; width:50%"><strong>INPUT</strong></td>
+			<td style="text-align:center; vertical-align:top; width:50%"><strong>OUTPUT</strong></td>
 		</tr>
 		<tr>
-			<td style="background-color:#ffffcc; border-color:black; height:11.95pt; width:85.5pt">
-			<p><tt><strong>2 10 3</strong></tt></p>
-			</td>
-			<td style="height:11.95pt; vertical-align:bottom; width:40.5pt">
-			<p style="text-align:center">&nbsp;</p>
-			</td>
-			<td style="background-color:#ffffcc; height:11.95pt; width:90.0pt">
-			<p><tt><strong>64</strong></tt></p>
-			</td>
+			<td style="vertical-align:top; width:50%">15</td>
+			<td style="vertical-align:top; width:50%">1.0546</td>
 		</tr>
 	</tbody>
 </table>
 
-<p style="text-align:justify">&nbsp;</p>
-
-<hr>
 <p>&nbsp;</p>
 		</div>
