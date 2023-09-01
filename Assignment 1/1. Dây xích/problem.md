@@ -1,5 +1,5 @@
 <div class="problem_description" id="problem_description">
-			<h3><span style="color:#0070c0"><a name="_Toc446261323">DÂY </a>XÍCH</span></h3>
+			<h3><span style="color:#0070c0"><a name="_Toc446261323">DÂY XÍCH</a></span></h3>
 
 <p style="text-align:justify">Người ta dùng dây thép tròn độ dày (đường kính thiết diện ngang) <strong><em>d</em></strong> làm <strong><em>n</em></strong> vòng tròn bán kính vòng tròn trong là <strong><em>r</em></strong>, móc nối với nhau thành một dây xích, mỗi vòng tròn là một mắt xích. Hình 1 nêu trường hợp dây có 3 mắt xích. Nếu dây xích có nhiều hơn một mắt xích thì tồn tại hai vòng tròn, mỗi vòng chỉ nối với đúng một vòng tròn khác, đó là các mắt xích đầu và cuối.&nbsp; Cầm 2 mắt xích đầu và cuối, kéo căng ra, ta có dây xích độ dài <strong><em>L</em></strong>.</p>
 
@@ -13,7 +13,7 @@
 
 <p style="text-align:justify"><strong><em>Ví dụ:</em></strong></p>
 
-<table align="left" border="1" cellspacing="0">
+<table align="left" border="1" cellspacing="1">
 	<tbody>
 		<tr>
 			<td style="background-color:#ffffcc; border-color:black; width:85.5pt">
