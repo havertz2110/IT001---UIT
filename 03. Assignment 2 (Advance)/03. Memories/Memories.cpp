@@ -36,3 +36,4 @@ int main() {
     cout << ans;
 	return 0;
 }
+#code trong bài này somehow chỉ được 93/100 thôi nhé
