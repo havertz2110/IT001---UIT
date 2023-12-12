@@ -6,7 +6,7 @@ Mong cái này sẽ giúp được mọi người được, và do đó chỉ th
 
 Trong quá trình thực hiện dự án, mình có nhờ bạn [Lê Quang Thiên Phúc](https://github.com/blundermaker) và [Vũ Ngọc Quốc Khánh](https://github.com/AnoTherK-ATK) giúp đỡ.
 
-Lưu ý: code toàn bộ bằng C++ và mình chưa up đề lên, mình sẽ up sau ( if rảnh :) )
+Lưu ý: code toàn bộ bằng C++
 
 
 Date started: 2/3/2023
@@ -22,7 +22,7 @@ I hope this can be helpful for everyone. Therefore, I encourage you to use these
 
 During the project implementation, I asked for assistance from [Lê Quang Thiên Phúc](https://github.com/blundermaker) and [Vũ Ngọc Quốc Khánh](https://github.com/AnoTherK-ATK).
 
-Note: All the code is written in C++, and I haven't uploaded the problem statements yet. I'll do that later (if I have free time). 😄
+Note: All the code is written in C++😄
 
 Date started: 2/3/2023
 
